@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Test and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*~
